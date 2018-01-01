@@ -1,0 +1,14 @@
+{
+  "name": "pwashell",
+  "version": "1.0.0",
+  "description": "PWA Shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subodh Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
